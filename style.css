@@ -3,11 +3,11 @@
 }
 .hover:hover{
     background-color: black;
-    color: #f4f4f4;
+    color: #f4f4f4 !important;
     transition: .5s;
 }
 .active{
     background-color: black;
-    color: #f4f4f4;
+    color: #f4f4f4 !important;
     transition: .5s;
 }
