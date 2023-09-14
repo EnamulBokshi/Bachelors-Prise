@@ -1,0 +1,13 @@
+.cursor-pointer{
+    cursor: pointer;
+}
+.hover:hover{
+    background-color: black;
+    color: #f4f4f4;
+    transition: .5s;
+}
+.active{
+    background-color: black;
+    color: #f4f4f4;
+    transition: .5s;
+}
